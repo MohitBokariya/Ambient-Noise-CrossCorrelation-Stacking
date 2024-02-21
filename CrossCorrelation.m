@@ -1,4 +1,5 @@
-%Code number 3
+% Mohit Bokariya
+% Email : mohit.seismology@gmail.com
 %After doing normalization and spectral whitening using norm_white1.sh 
 %Cross Correlation and Stacking between two station of SAC data with multiple stations
 %IN this code we will compute stack(GREEN Function) of all possible station pair
