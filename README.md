@@ -3,4 +3,4 @@ These code calculate cross correlation between all possible station pairs [n*(n-
 
 This code also add interstation distance , azimuth and back azimuth into headers.
 
-You can use any code Matlab or Python acording to your comfort.
+You can use any code Matlab or Python acording to your comfort but Matlab code provide high Signal to noise ratio.
